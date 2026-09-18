@@ -125,7 +125,7 @@ MongoDB
 ### Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mariam-adepoju/social-media-APIs.git
 cd social-media-APIs
 npm install
 ```
